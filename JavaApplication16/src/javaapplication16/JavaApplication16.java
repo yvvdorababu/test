@@ -19,6 +19,7 @@ public class JavaApplication16 {
         System.out.println("This is testing application with git");
         System.out.println("Added new line from 10.0.2.193 server");
         System.out.println("3rd lince added new line from 10.0.1.66 server");
+        System.out.println("4th line added new line from 10.0.2.193 server");
     }
     
 }
