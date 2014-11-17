@@ -17,6 +17,7 @@ public class JavaApplication16 {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("This is testing application with git");
+        System.out.println("Added ----> This is testing application from ram system");
     }
     
 }
