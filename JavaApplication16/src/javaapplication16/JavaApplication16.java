@@ -17,6 +17,7 @@ public class JavaApplication16 {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("This is testing application with git");
+        System.out.println("Added new line from 10.0.2.193 server");
     }
     
 }
